@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Saad 👋</h1>
-<h3 align="center">Backend engineer · Payments & billing · AI agents & automation</h3>
+<h3 align="center">Backend engineer & architect · Scalable systems · SaaS · AI agents</h3>
 
 <p align="center">
   <a href="https://www.fiverr.com/saadrupai69"><img src="https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire me on Fiverr"></a>
   <a href="https://www.linkedin.com/in/shah-ahmed-saad-rupai-591224195"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-I build the parts of a product where reliability matters most: **billing, payments and AI systems**.
+I design and build backends that stay fast and reliable at scale, and I've led backend teams through the big architecture decisions.
 
-- 💳 Built **usage-based billing in Go** for a US SaaS company (Stripe, metering, proration)
-- 📈 Scaled **payment systems for 2.5M+ users** at one of Bangladesh's largest EdTech platforms
-- 🤖 Built **AI agent pipelines** and **sub-100ms AI response streaming** on AWS
+- 🛒 **Foodi:** re-architected inventory into a distributed real-time system (**90% fewer stock discrepancies**), monolith → RPC microservice (**2.8s → 1.9s**)
+- ☁️ **Actionboard.ai (US SaaS):** usage-metering & billing platform in Go, plus an async ML streaming pipeline on AWS with **sub-100ms latency**
+- 🎓 **Shikho:** AI agent pipeline that turns lectures into quizzes and summaries, and payments for **2.5M+ users**
+- 🗺️ **Mapnest:** 600K+ geospatial records at **sub-100ms p99** geocoding
+- 📦 Distributed order platform handling **10,000+ orders at peak** (message broker + RPC)
 - 🎓 BSc in Computer Science & Engineering, RUET
 
 ---
@@ -29,11 +31,12 @@ I build the parts of a product where reliability matters most: **billing, paymen
 
 ### 🛠️ What I can help you with
 
-- **Stripe & billing:** webhooks, subscriptions, metered pricing, failed-payment recovery
-- **AI agents & chatbots:** RAG on your docs, tool-using agents, MCP servers, AI features in your app
+- **Backend architecture:** microservices, queues, caching, database design, scaling and rescues
+- **SaaS backends:** auth, multi-tenancy, subscriptions and billing, APIs
+- **AI agents & chatbots:** RAG on your docs, tool-using agents, MCP servers, LLM features in your app
 - **Automation:** n8n, Make and Zapier workflows with AI, built like real software
-- **Rescue projects:** fixing apps built with Lovable, Bolt or Cursor that are stuck or broken
+- **Fix & finish:** slow APIs, failing jobs, and apps built with Lovable, Bolt or Cursor
 
-**Stack:** Go · TypeScript/Node.js · Python · PostgreSQL · Redis · RabbitMQ · AWS (Lambda, SQS, ECS) · Docker · Kubernetes
+**Stack:** Go · TypeScript/Node.js · Python · PostgreSQL · Redis · RabbitMQ · Elasticsearch · gRPC · AWS (Lambda, SQS, ECS) · Docker · Kubernetes
 
 <p align="center"><b>📩 Have a project? <a href="https://www.fiverr.com/saadrupai69">Message me on Fiverr</a>. I reply fast.</b></p>
